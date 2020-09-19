@@ -98,4 +98,4 @@ elevation: Number;
 
 ```
 
-![isyoutube](https://youtu.be/CmvB4crSgYc)
+[![react-native-animated-border](https://img.youtube.com/vi/CmvB4crSgYc/0.jpg)](https://www.youtube.com/watch?v=CmvB4crSgYc)
