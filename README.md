@@ -98,4 +98,6 @@ elevation: Number;
 
 ```
 
+## Play de video to see react-native-animated-border in action
+
 [![react-native-animated-border](https://img.youtube.com/vi/CmvB4crSgYc/0.jpg)](https://www.youtube.com/watch?v=CmvB4crSgYc)
