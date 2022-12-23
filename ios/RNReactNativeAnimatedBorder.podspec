@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactNativeAnimatedBorder
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/johnjayasingh/react-native-animated-border"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
